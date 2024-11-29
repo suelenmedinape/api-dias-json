@@ -1,0 +1,5 @@
+CREATE TABLE tb_professores (
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(50) NOT NULL,
+    senha VARCHAR(50) NOT NULL
+);
